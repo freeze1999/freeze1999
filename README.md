@@ -14,6 +14,3 @@ I build production AI without a formal CS background. Most of my work circles on
 
 I also built a live e-commerce site with a custom inventory and quotation pipeline for a lighting company. The code is private since it's a real business, but it's running in production.
 
-**Where I'm headed**
-
-I'm applying to Universiti Malaya's Master of AI to get the theory my hands-on work is missing. Alongside that, I'm building Synholos: custom AI agents and automation for small businesses.
